@@ -68,16 +68,16 @@ Android Studio Giraffe | 2022.3.1 Patch 3
     <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-storage.js"></script>
 ```
 
-  3. **Install Dependencies**
-    ```sh
-    flutter pub get
-    ```
+3. **Install Dependencies**
+ ```sh
+ flutter pub get
+ ```
 
-    4. **Run the Web Admin Panel**
-    - Ensure you have Flutter installed for web development
-    - Run the admin web panel by navigating to the project directory and running:
-    ```sh
-    flutter run -d chrome --web-renderer html
-    ```
+ 4. **Run the Web Admin Panel**
+ - Ensure you have Flutter installed for web development
+ - Run the admin web panel by navigating to the project directory and running:
+ ```sh
+ flutter run -d chrome --web-renderer html
+ ```
 
 
