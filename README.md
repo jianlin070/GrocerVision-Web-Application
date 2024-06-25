@@ -55,9 +55,9 @@ Android Studio Giraffe | 2022.3.1 Patch 3
   2. Follow the steps to register your app with Firebase
   3. Copy the Firebase configuration and add it to your web app
 
-  - Register Your App with Firebase:
+- Register Your App with Firebase:
 
-  1.  Open the index.html file in the web directory and add the following Firebase SDK scripts inside the <head> tag:
+1.  Open the index.html file in the web directory and add the following Firebase SDK scripts inside the <head> tag:
 
 ```sh
     <!-- Firebase App (the core Firebase SDK) -->
